@@ -1,0 +1,20 @@
+{
+  "name": "@codianz/loglike",
+  "version": "0.0.0",
+  "description": "Define a log-like interface",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "tsc",
+    "deploy": "npm publish --access=public"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  },
+  "optionalDependencies": {
+    "@types/debug": "^4.1.5",
+    "debug": "^4.3.1"
+  }
+}
