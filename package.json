@@ -2,14 +2,24 @@
   "name": "@codianz/loglike",
   "version": "0.0.0",
   "description": "Define a log-like interface",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "build": "tsc",
     "prepare": "tsc",
     "deploy": "npm publish --access=public"
   },
-  "author": "",
+  "keywords": [
+    "Log",
+    "interface",
+    "Typescript"
+  ],
+  "author": "Terukazu Inoue",
   "license": "MIT",
+  "homepage": "https://github.com/CODIANZ/loglike",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CODIANZ/loglike.git"
+  },
   "devDependencies": {
     "typescript": "^4.3.4"
   },
