@@ -1,6 +1,6 @@
 {
   "name": "@codianz/loglike",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Define a log-like interface",
   "main": "./dist/index.js",
   "scripts": {
@@ -15,10 +15,10 @@
   ],
   "author": "Terukazu Inoue",
   "license": "MIT",
-  "homepage": "https://github.com/CODIANZ/loglike",
+  "homepage": "https://github.com/CODIANZ/npm.loglike",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CODIANZ/loglike.git"
+    "url": "https://github.com/CODIANZ/npm.loglike.git"
   },
   "devDependencies": {
     "typescript": "^4.3.4"
